@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋  
+I'm **Jervon Drakes**, a Computer Science student, researcher, and data science enthusiast passionate about human-centered AI, sports analytics, and impactful technology!
 
-<!--
-**jdrakes21/jdrakes21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔬 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on **visual misinformation detection**, **sports injury prediction**, and **student performance modeling** using ML & data visualization.  
+- 🌱 I'm always open to collaborating on projects involving **computer vision**, **reinforcement learning**, **data ethics**, and **educational data mining**.  
+- 🎓 Undergraduate at **UMBC** | Cyber Scholar | Global Ambassador  
+- 📈 Passionate about using **data for good** — from improving athlete safety to understanding human perception in data visualizations.
+
+---
+
+### 💻 Skills
+
+#### 🧠 Languages  
+Python, C++, SQL, R, JavaScript, HTML/CSS, 
+
+#### 🧰 Frameworks & Libraries  
+React, XGBoost, scikit-learn, Seaborn, Matplotlib, Lex, Yacc, PyTorch (ongoing), Pandas, NumPy, SMOTE, 
+
+#### 🗃️ Databases  
+PostgreSQL, SQL, DBeaver, Redshift
+
+#### ☁️ Tools & Technologies  
+Git, Linux, Tableau, Visual Studio Code, PyCharm, Docker (learning)
+
+---
+
+### 💬 Connect with Me
+
+- 🤝 Let’s talk about **sports tech**, **visual storytelling**, or **life as an international student**
+- 💬 Ask me about: soccer analytics ⚽, machine learning pipelines 🧠, or making messy data tell clear stories 📊, or Caribbean food recommendations 🌴  
+- 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/jervon-drakes) or email: `jdrakes1@umbc.edu`  
+- 🧑🏽‍🤝‍🧑🏽 Fun Fact: I’m a twin — double the brainpower, double the fun!
+
+---
+
+### 🧠 Carpe Diem
+
+> _"Do not wait for the perfect moment. Take the moment and make it perfect."_
+
