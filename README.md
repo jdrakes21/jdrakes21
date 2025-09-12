@@ -7,8 +7,8 @@ I'm **Jervon Drakes**, a Computer Science student, researcher, and data science 
 
 - 🔭 Currently working on **visual analytics in climate science**, **sports injury prediction**, and **student performance modeling** using ML & data visualization.  
 - 🌱 I'm always open to collaborating on projects involving **computer vision**, **reinforcement learning**, **data ethics**, and **educational data mining**.  
-- 🎓 Undergraduate at **UMBC** | Cyber Scholar | Global Ambassador  
-- 📈 Passionate about using **data for good** — from improving athlete safety to understanding human perception in data visualizations.
+- 🎓 Undergraduate at **UMBC** | Cyber Scholar | Global Ambassador | Undergraduate Researcher | Undergraduate Rsearch Assistant
+- 📈 Passionate about applying data science to solve real-world problems — from climate insights to equitable and ethical uses of technology.
 
 ---
 
