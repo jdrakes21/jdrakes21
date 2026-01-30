@@ -1,5 +1,5 @@
 # Hi there 👋  
-I'm **Jervon Drakes**, a Computer Science student, researcher, and data science enthusiast passionate about human-centered AI, sports analytics, and impactful technology!
+I'm **Jervon Drakes**, a recent Computer Science graduate, researcher, and data science enthusiast passionate about human-centered AI, sports analytics, and impactful technology!
 
 ---
 
